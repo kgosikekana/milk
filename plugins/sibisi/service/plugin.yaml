@@ -1,0 +1,6 @@
+plugin:
+    name: 'sibisi.service::lang.plugin.name'
+    description: 'sibisi.service::lang.plugin.description'
+    author: Sibisi
+    icon: oc-icon-adjust
+    homepage: ''

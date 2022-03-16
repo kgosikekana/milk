@@ -85,4 +85,5 @@ return array(
     'Composer\\' => array($vendorDir . '/composer/composer/src/Composer'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
     'Assetic\\' => array($vendorDir . '/october/rain/src/Assetic/Assetic'),
+    'App\\' => array($baseDir . '/app'),
 );
