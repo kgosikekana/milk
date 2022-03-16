@@ -1,6 +1,0 @@
-plugin:
-    name: 'sibisi.qualifications::lang.plugin.name'
-    description: 'sibisi.qualifications::lang.plugin.description'
-    author: Sibisi
-    icon: oc-icon-adn
-    homepage: ''
